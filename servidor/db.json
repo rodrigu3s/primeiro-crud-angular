@@ -1,0 +1,28 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "filme": "Tropa de Elite",
+      "genero": "Ação",
+      "classificacao": "16",
+      "valor": "24,99",
+      "disponivel": true
+    },
+    {
+      "id": 2,
+      "filme": "O Auto da Compadecida",
+      "genero": "Comédia",
+      "classificacao": "Livre",
+      "valor": "19,90",
+      "disponivel": true
+    },
+    {
+      "id": 3,
+      "filme": "Cidade de Deus",
+      "genero": "Drama",
+      "classificacao": "18",
+      "valor": "24,99",
+      "disponivel": null
+    }
+  ]
+}
